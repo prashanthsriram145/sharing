@@ -1,0 +1,22 @@
+	Oracle to MongoDB migration
+		Understand how will product DB be used now and in future
+		Come up with points on why to use MongoDB and why not other DBs like PostgreSQL, SQL Server, YugabyteDB
+		Reach out to teams using MongoDB and MongoDB experts in WIMT to understand strategy followed - replica sets, sharding, read and write concerns
+		Understand services to get an idea about how to write delta data to MongoDB
+		Get familiarized with Informatica and how to use MongoDB with Informatica
+		Understand every aspect of the project to get bigger picture
+		Explore about tools that can be helpful with migration from Oracle to MongoDB.
+		Explore how data from T1A (LSEG) is ingested into 1CMX and how can we get that data into Product DB
+		How can we avoid data being fetched from various backends and start getting everything from Product DB
+		Understand how MongoDB can scale to hold large volumes of data and provide responses fast
+		Understand how can we use analytics from MongoDB
+	OCP migration
+		Create a team to help with OCP migration issues for AFS & AP
+		Set up office hours for OCP migration for AFS & AP
+		Capture metrics about how team helped other teams
+		Provide session on OCP migration and OCP basics
+	AI/ML
+		Learn about traditional AI/ML
+		Learn about neural networks
+		Learn about GenAI
+Identify use cases that can be implemented using AI/ML.
